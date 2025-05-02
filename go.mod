@@ -2,6 +2,8 @@ module github.com/xmidt-org/tr1d1um
 
 go 1.19
 
+replace github.com/xmidt-org/ancla => github.com/ChaitanyaSingla/ancla v0.0.0-20250502103317-458e7261c443
+
 require (
 	github.com/go-kit/kit v0.12.0
 	github.com/goph/emperror v0.17.3-0.20190703203600-60a8d9faa17b
