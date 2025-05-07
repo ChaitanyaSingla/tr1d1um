@@ -167,6 +167,7 @@ func provideWebhookHandlers(in provideWebhookHandlersIn) (out provideWebhookHand
 		return out, fmt.Errorf("webhook service start listener error: %s", err)
 	}
 	in.Logger.Info("Webhook service enabled")
+	in.Logger.Info("This is the new code with queue name changes")
 
 	in.Lifecycle.Append(fx.Hook{
 		OnStop: func(_ context.Context) error {
