@@ -2,7 +2,7 @@ module github.com/xmidt-org/tr1d1um
 
 go 1.19
 
-replace github.com/xmidt-org/ancla => github.com/ChaitanyaSingla/ancla v0.0.0-20250905093457-f0fb274ec43e
+replace github.com/xmidt-org/ancla => github.com/ChaitanyaSingla/ancla v0.0.0-20250926124713-4a884e3c0e10
 
 require (
 	github.com/go-kit/kit v0.12.0
