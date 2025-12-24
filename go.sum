@@ -611,8 +611,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/BurntSushi/toml v1.1.0/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
 github.com/BurntSushi/toml v1.2.1/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
-github.com/ChaitanyaSingla/ancla v0.0.0-20250905093457-f0fb274ec43e h1:yKou6iOYIWPxCmrcfyUV3dhk7nOYBHzZ7ZhN3qIhphc=
-github.com/ChaitanyaSingla/ancla v0.0.0-20250905093457-f0fb274ec43e/go.mod h1:7/2FyLkC3Aus4vu5Se/DTdp/M8bdJCJXlEGs71cP00w=
+github.com/ChaitanyaSingla/ancla v0.0.0-20251224061013-55d2aa2c4168 h1:kHUrzkzhW53A0tUucZ6wN5WSNNx+Ln0/1CFVwyMiqC8=
+github.com/ChaitanyaSingla/ancla v0.0.0-20251224061013-55d2aa2c4168/go.mod h1:7/2FyLkC3Aus4vu5Se/DTdp/M8bdJCJXlEGs71cP00w=
 github.com/DataDog/datadog-go v2.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/DataDog/datadog-go v3.2.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/GaryBoone/GoStats v0.0.0-20130122001700-1993eafbef57/go.mod h1:5zDl2HgTb/k5i9op9y6IUSiuVkZFpUrWGQbZc9tNR40=
